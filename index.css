@@ -1,0 +1,25 @@
+body {
+  background-color: black;
+}
+
+div {
+  padding-left: 28%;
+  padding-top: 15%;
+}
+img {
+  border: 10px solid white;
+  position: fixed;
+  width: 1200px;
+}
+
+ul {
+  color: orangered;
+  font-size: 40px;
+  font-weight: bold;
+  margin-left: 690px;
+  position: absolute;
+  margin-top: 190px;
+  list-style: none;
+  background-color: rgba(1, 1, 1, 0.322);
+  border: 10px groove green;
+}
